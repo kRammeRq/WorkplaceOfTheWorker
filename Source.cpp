@@ -3,10 +3,10 @@
 #include <vector>
 #include <map>
 #include <sstream>
+#include <algorithm>
 #include <string>
 #include <iomanip>
 #include <unordered_map>
-#include <algorithm>
 #include <nlohmann/json.hpp>
 using namespace std;
 using json = nlohmann::json;
