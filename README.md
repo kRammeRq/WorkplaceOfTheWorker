@@ -1,0 +1,2 @@
+# WorkplaceOfTheWorker
+Рабочее место кассира
