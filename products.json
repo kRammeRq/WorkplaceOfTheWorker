@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Milk",
+    "barcode": "1001",
+    "price": 60
+  },
+  {
+    "name": "Bread",
+    "barcode": "1002",
+    "price": 40
+  },
+  {
+    "name": "Apple",
+    "barcode": "1003",
+    "price": 25
+  }
+]
