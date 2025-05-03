@@ -6,8 +6,8 @@
 #include <string>
 #include <iomanip>
 #include <unordered_map>
-//#include <nlohmann/json.hpp>
-#include "json.hpp"
+#include <algorithm>
+#include <nlohmann/json.hpp>
 using namespace std;
 using json = nlohmann::json;
 //Перевод строки в нижний регистр
